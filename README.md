@@ -16,10 +16,9 @@ An console based Travelling Salesman problem program. Download or fork to run wi
 
 ## Contributing
 
-1.Fork the repository
-2.Do the desired changes (add/delete/modify)
-3.Make a pull request
-
+1.  Fork the repository
+2.  Do the desired changes (add/delete/modify)
+3.  Make a pull request
 
 ## Sample Output
 O![output](https://user-images.githubusercontent.com/56217073/148569071-5a7f40a1-8a8e-489a-959b-6007c665d0fd.png)
